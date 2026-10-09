@@ -1,6 +1,6 @@
 {
   "name": "sitedrive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read and build location-based construction schedules in Sitedrive.",
   "author": {
     "name": "Sitedrive",
@@ -26,7 +26,7 @@
       "Import this MS Project schedule into Sitedrive.",
       "Plan a new Sitedrive schedule for a six-storey apartment building."
     ],
-    "brandColor": "#4E2C6A",
+    "brandColor": "#7319D2",
     "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png",
     "screenshots": []
