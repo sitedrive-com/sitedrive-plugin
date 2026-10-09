@@ -1,31 +1,33 @@
 {
   "name": "sitedrive",
-  "version": "0.1.1",
-  "description": "Read and build location-based construction schedules in Sitedrive.",
+  "version": "0.2.0",
+  "description": "Connect your AI assistant to Sitedrive construction schedules.",
   "author": {
     "name": "Sitedrive",
     "url": "https://sitedrive.com"
   },
   "homepage": "https://sitedrive.com",
   "license": "UNLICENSED",
-  "keywords": ["construction", "scheduling", "location-based", "takt"],
-  "skills": "./skills/",
+  "keywords": [
+    "construction",
+    "scheduling",
+    "location-based",
+    "takt"
+  ],
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Sitedrive",
-    "shortDescription": "Read and build construction schedules",
-    "longDescription": "Find projects, read work package progress by location, update progress, and import or plan a location-based schedule in Sitedrive. Every action runs with your own Sitedrive permissions.",
+    "shortDescription": "Connect to Sitedrive construction schedules",
+    "longDescription": "Connects your AI assistant to the Sitedrive MCP server. Every action runs with your own Sitedrive permissions.",
     "developerName": "Sitedrive",
     "category": "Productivity",
-    "capabilities": ["Read", "Write"],
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
     "websiteURL": "https://sitedrive.com",
     "privacyPolicyURL": "https://sitedrive.com/privacy",
     "termsOfServiceURL": "https://sitedrive.com/en/terms",
-    "defaultPrompt": [
-      "Which work packages are behind schedule in my Sitedrive project?",
-      "Import this MS Project schedule into Sitedrive.",
-      "Plan a new Sitedrive schedule for a six-storey apartment building."
-    ],
     "brandColor": "#7319D2",
     "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png",

@@ -2,15 +2,20 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "sitedrive",
   "displayName": "Sitedrive",
-  "version": "0.1.1",
-  "description": "Read and build location-based construction schedules in Sitedrive.",
+  "version": "0.2.0",
+  "description": "Connect your AI assistant to Sitedrive construction schedules.",
   "author": {
     "name": "Sitedrive",
     "url": "https://sitedrive.com"
   },
   "homepage": "https://sitedrive.com",
   "license": "UNLICENSED",
-  "keywords": ["construction", "scheduling", "location-based", "takt"],
+  "keywords": [
+    "construction",
+    "scheduling",
+    "location-based",
+    "takt"
+  ],
   "icon": "./assets/logo.png",
   "privacyPolicyUrl": "https://sitedrive.com/privacy",
   "termsOfServiceUrl": "https://sitedrive.com/en/terms"

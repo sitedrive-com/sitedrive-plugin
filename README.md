@@ -1,8 +1,7 @@
 # Sitedrive plugin for AI assistants
 
-Connects [Sitedrive](https://sitedrive.com) to your AI assistant: find projects, read work package progress by
-location, update progress, and import or plan a location-based construction schedule. Every action runs with
-your own Sitedrive permissions after you sign in.
+Connects your AI assistant to [Sitedrive](https://sitedrive.com) through the Sitedrive MCP server. Every action
+runs with your own Sitedrive permissions after you sign in.
 
 ## Install
 
