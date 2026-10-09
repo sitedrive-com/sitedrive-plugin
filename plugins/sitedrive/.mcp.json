@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sitedrive": {
+      "type": "http",
+      "url": "https://api.app.sitedrive.com/mcp",
+      "oauth_resource": "https://api.app.sitedrive.com/mcp"
+    }
+  }
+}

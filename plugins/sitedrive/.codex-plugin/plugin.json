@@ -1,0 +1,34 @@
+{
+  "name": "sitedrive",
+  "version": "0.1.0",
+  "description": "Read and build location-based construction schedules in Sitedrive.",
+  "author": {
+    "name": "Sitedrive",
+    "url": "https://sitedrive.com"
+  },
+  "homepage": "https://sitedrive.com",
+  "license": "UNLICENSED",
+  "keywords": ["construction", "scheduling", "location-based", "takt"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Sitedrive",
+    "shortDescription": "Read and build construction schedules",
+    "longDescription": "Find projects, read work package progress by location, update progress, and import or plan a location-based schedule in Sitedrive. Every action runs with your own Sitedrive permissions.",
+    "developerName": "Sitedrive",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://sitedrive.com",
+    "privacyPolicyURL": "https://sitedrive.com/privacy",
+    "termsOfServiceURL": "https://sitedrive.com/en/terms",
+    "defaultPrompt": [
+      "Which work packages are behind schedule in my Sitedrive project?",
+      "Import this MS Project schedule into Sitedrive.",
+      "Plan a new Sitedrive schedule for a six-storey apartment building."
+    ],
+    "brandColor": "#4E2C6A",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "screenshots": []
+  }
+}

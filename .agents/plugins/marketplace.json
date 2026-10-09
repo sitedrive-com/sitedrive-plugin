@@ -1,0 +1,20 @@
+{
+  "name": "sitedrive",
+  "interface": {
+    "displayName": "Sitedrive"
+  },
+  "plugins": [
+    {
+      "name": "sitedrive",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sitedrive"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
