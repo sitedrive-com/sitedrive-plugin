@@ -1,5 +1,7 @@
 # Sitedrive
 
+![Sitedrive logo](assets/logo.png)
+
 Connect your AI assistant to [Sitedrive](https://sitedrive.com) to read construction schedules,
 track progress, and create or update scheduled work across projects and locations.
 

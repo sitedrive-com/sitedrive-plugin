@@ -2,19 +2,7 @@
   "mcpServers": {
     "sitedrive": {
       "type": "http",
-      "url": "https://api.app.sitedrive.com/mcp",
-      "oauth_resource": "https://api.app.sitedrive.com/mcp",
-      "extensions": {
-        "com.openai": {
-          "auth": {
-            "type": "oauth",
-            "client": {
-              "mode": "dcr"
-            },
-            "resource": "https://api.app.sitedrive.com/mcp"
-          }
-        }
-      }
+      "url": "https://api.app.sitedrive.com/mcp"
     }
   }
 }
