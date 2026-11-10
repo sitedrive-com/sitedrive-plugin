@@ -3,6 +3,11 @@
 Connects your AI assistant to [Sitedrive](https://sitedrive.com) through the Sitedrive MCP server. Every action
 runs with your own Sitedrive permissions after you sign in.
 
+## Documentation
+
+[Read the Sitedrive MCP documentation](https://api.app.sitedrive.com/mcp/docs) for connection instructions,
+available tools, permissions, examples, and troubleshooting.
+
 ## Install
 
 Claude Code:
@@ -29,4 +34,4 @@ Run `scripts/build-openai-zip.sh` and upload the ZIP it prints at [platform.open
 
 ## Support
 
-[sitedrive.com](https://sitedrive.com)
+[Visit the Sitedrive support center](https://support.sitedrive.com/en/kb)
